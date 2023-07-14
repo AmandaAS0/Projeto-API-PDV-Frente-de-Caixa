@@ -1,5 +1,5 @@
 # Projeto-API-PDV-Frente-de-Caixa
-## Amanda Aguiar, Kennya Andre, Kathleen Serrano, Eudo Ribeiro
+## Por Amanda Aguiar, Kennya Andre, Kathleen Serrano, Eudo Ribeiro
 Criação de API para um PDV (Frente de Caixa) contendo Banco de Dados, Cadastro e login de usuário, deploy, Cadastro e listagem de produtos, Upload de Imagens, Cadastro e listagem de pedidos.
 
 
